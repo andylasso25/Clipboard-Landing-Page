@@ -1,0 +1,359 @@
+body {
+  margin: 0;
+}
+
+h1 {
+  font-family: 'Bai Jamjuree', sans-serif;
+  text-align: center;
+  font-size: 2.2rem;
+  color: #525252;
+}
+
+h2 {
+  font-family: 'Bai Jamjuree', sans-serif;
+  text-align: center;
+  font-size: 2.1rem;
+  color: #525252;
+}
+
+h3 {
+  font-family: 'Bai Jamjuree', sans-serif;
+  color: #525252;
+  font-size: 1.65rem;
+}
+h4 {
+  font-family: 'Bai Jamjuree', sans-serif;
+  color: #888888;
+  font-size: 1.3rem
+}
+
+p {
+  font-family: 'Bai Jamjuree', sans-serif;
+  font-size: 1.125rem;
+  font-weight: 400;
+  color: #BCBAB8;
+  line-height: 2;
+}
+
+.top-container {
+  height: 900px;
+}
+
+.computer-container {
+  height: 1800px;
+}
+
+.supercharge-container {
+  height: 200px;
+}
+
+.three-mini-container {
+  height: 350px;
+}
+
+.companies-container {
+  height: 200px;
+}
+.clipboard-container {
+  text-align: center;
+  margin: 0 auto 0 auto;
+  width: 35%;
+  height: 300px;
+}
+.bottom-container {
+  background-color: #F0F0F0;
+  height: 200px;
+}
+
+.align {
+  height: 800px;
+}
+
+.bg-header {
+  width: 100%;
+  margin: 0;
+}
+
+.logo {
+  display: block;
+  margin: auto;
+  position: relative;
+  bottom: 300px;
+}
+
+.history {
+  position: relative;
+  bottom: 250px;
+}
+
+.allow {
+  position: relative;
+  bottom: 250px;
+  text-align: center;
+  margin: 0 auto 0 auto;
+  width: 25%;
+}
+
+.download-set {
+  text-align: center;
+  position: relative;
+  bottom: 200px;
+}
+
+.download {
+  margin: auto 20px auto 20px;
+}
+
+.iOS {
+  background: #20716A;
+  background-image: -webkit-linear-gradient(top, #20716A, #20716A);
+  background-image: -moz-linear-gradient(top, #20716A, #20716A);
+  background-image: -ms-linear-gradient(top, #20716A, #20716A);
+  background-image: -o-linear-gradient(top, #20716A, #20716A);
+  background-image: linear-gradient(to bottom, #20716A, #20716A);
+  -webkit-border-radius: 100px;
+  -moz-border-radius: 100px;
+  border-radius: 100px;
+  color: #FFFFFF;
+  font-family: 'Bai Jamjuree', sans-serif;
+  font-size: 18px;
+  font-weight: 400;
+  padding: 20px;
+  border: solid #337FED 0;
+  text-decoration: none;
+  display: inline-block;
+  cursor: pointer;
+  text-align: center;
+  margin-right: 5px;
+}
+
+.iOS:hover {
+  border: solid #337FED 0;
+  background: #23A393;
+  background-image: -webkit-linear-gradient(top, #23A393, #23A393);
+  background-image: -moz-linear-gradient(top, #23A393, #23A393);
+  background-image: -ms-linear-gradient(top, #23A393, #23A393);
+  background-image: -o-linear-gradient(top, #23A393, #23A393);
+  background-image: linear-gradient(to bottom, #23A393, #23A393);
+  -webkit-border-radius: 100px;
+  -moz-border-radius: 100px;
+  border-radius: 100px;
+  text-decoration: none;
+}
+
+.Mac {
+  background: #5D50C6;
+  background-image: -webkit-linear-gradient(top, #5D50C6, #5D50C6);
+  background-image: -moz-linear-gradient(top, #5D50C6, #5D50C6);
+  background-image: -ms-linear-gradient(top, #5D50C6, #5D50C6);
+  background-image: -o-linear-gradient(top, #5D50C6, #5D50C6);
+  background-image: linear-gradient(to bottom, #5D50C6, #5D50C6);
+  -webkit-border-radius: 100px;
+  -moz-border-radius: 100px;
+  border-radius: 100px;
+  color: #FFFFFF;
+  font-family: 'Bai Jamjuree', sans-serif;
+  font-size: 18px;
+  font-weight: 400;
+  padding: 20px;
+  border: solid #337FED 0;
+  text-decoration: none;
+  display: inline-block;
+  cursor: pointer;
+  text-align: center;
+  margin-left: 5px;
+}
+
+.Mac:hover {
+  border: solid #337FED 0;
+  background: #A287F4;
+  background-image: -webkit-linear-gradient(top, #A287F4, #A287F4);
+  background-image: -moz-linear-gradient(top, #A287F4, #A287F4);
+  background-image: -ms-linear-gradient(top, #A287F4, #A287F4);
+  background-image: -o-linear-gradient(top, #A287F4, #A287F4);
+  background-image: linear-gradient(to bottom, #A287F4, #A287F4);
+  -webkit-border-radius: 100px;
+  -moz-border-radius: 100px;
+  border-radius: 100px;
+  text-decoration: none;
+}
+
+.snippets {
+  margin-top: 0;
+}
+
+.cloud {
+  text-align: center;
+  margin: 0 auto 0 auto;
+  width: 28%;
+}
+
+.sea {
+  position: relative;
+  top: 100px;
+  left: 500px;
+}
+
+.align-left-head {
+  text-align: left;
+  width: 20%;
+  position: relative;
+  left: 1375px;
+  bottom: 450px;
+  margin-bottom: 0;
+}
+
+.align-left-text {
+  text-align: left;
+  width: 20%;
+  position: relative;
+  left: 1375px;
+  bottom: 450px;
+  margin-top: 0;
+}
+
+.go {
+  text-align: center;
+  margin: 0 auto 0 auto;
+  width: 35%;
+}
+
+.devices {
+  display: block;
+  margin: auto;
+  position: relative;
+  top: 100px;
+}
+
+.tools {
+  text-align: center;
+  margin: 0 auto 0 auto;
+  width: 20%;
+}
+
+.blacklist {
+  width: 20%;
+  margin: auto;
+  text-align: center;
+  position: relative;
+  right: 500px;
+  bottom: 36px;
+}
+
+.icon-text {
+  height: 40px;
+  width: 44px;
+}
+
+.text {
+  width: 20%;
+  margin: auto;
+  text-align: center;
+  position: relative;
+  bottom: 256px;
+}
+
+.icon-preview {
+  height: 40px;
+  width: 44px;
+}
+
+.preview {
+  width: 20%;
+  margin: auto;
+  text-align: center;
+  position: relative;
+  bottom: 476px;
+  left: 500px;
+}
+
+.google {
+  position: relative;
+  left: 550px;
+}
+
+.ibm {
+  height: 49px;
+  width: 165px;
+  margin: auto;
+  position: relative;
+  right: 300px;
+  bottom: 52px;
+}
+
+.microsoft {
+  height: 49px;
+  width: 165px;
+  margin: auto;
+  position: relative;
+  bottom: 101px;
+}
+
+.hp {
+  height: 49px;
+  width: 165px;
+  margin: auto;
+  position: relative;
+  left: 300px;
+  bottom: 150px;
+}
+
+.vector {
+  height: 49px;
+  width: 165px;
+  margin: auto;
+  position: relative;
+  left: 600px;
+  bottom: 200px;
+}
+.logo-two {
+  margin: auto;
+  position: relative;
+  text-align: center;
+  top: 60px;
+  right: 1000px;
+}
+.logo-two-svg {
+  height: 75px;
+  width: 75px;
+}
+.faq {
+  margin: auto;
+  position: relative;
+  text-align: center;
+  bottom: 41px;
+  right: 600px;
+}
+.privacy {
+  margin: auto;
+  position: relative;
+  text-align: center;
+  bottom: 150px;
+  right: 270px;
+}
+.install {
+  margin: auto;
+  position: relative;
+  text-align: center;
+  bottom: 257px;
+  left: 70px;
+}
+.social-media {
+  margin: auto;
+  position: relative;
+  text-align: center;
+  bottom: 270px;
+  left: 1000px;
+}
+.insta {
+  margin-right: 10px;
+}
+.twitter {
+  margin: 0 10px 0 10px;
+}
+.facebook {
+  margin-left: 10px;
+}
+.faqs:hover {
+  background-color: #43D8C9;
+}
